@@ -1,8 +1,4 @@
 def helloWorld():
-    print('wecome to the very kind world')
-
-def helloFrd(name):
-    print('Welcome to the world my friend - ' + name)
+    print('wecome to the very not kind world')
 
 helloWorld()
-helloFrd('vithu')
