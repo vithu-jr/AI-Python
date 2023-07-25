@@ -1,4 +1,4 @@
 def helloWorld():
-    print('wecome to the very not kind world')
+    print('wecome to the very kind world')
 
 helloWorld()
