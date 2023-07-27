@@ -58,3 +58,24 @@ students_names.insert(0, 'new name')
 students_names.extend(sub_list_2)
 print(students_names)
 
+# we can remove a value from a list using remove command
+fruits.remove('apple')
+print(fruits)
+
+# we can remove the item using index, using pop method
+fruits.pop(2)
+print(fruits)
+
+# alternate to above methods there's a delete method also
+del fruits[1]
+print(fruits)
+
+# we can use this method to delete this whole list
+del fruits
+# print(fruits)
+
+# there's another method is clear, which will clear the list's elements not the list
+print(sub_list)
+sub_list.clear()
+print(sub_list)
+
