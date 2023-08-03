@@ -20,7 +20,7 @@ x = 3.4e6
 
 # use lower case letters to define variables in python
 # use uppercase letters to define constants
-# when define variables with two or more words use underscore like new_var
+# when defining variables with two or more words use underscore like 'new_var'
 
 # data types in python
 # numeric types - int, float, complex
@@ -52,14 +52,14 @@ x = 3.4e6
 # print(type(x))
 
 # x = 7
-# # c = complex(x)
+# c = complex(x)
 
-# # print(c)
-# # print(type(c))
+# print(c)
+# print(type(c))
 
 # print('x is value is'+ x)
 
-z = 3j
+z = 3.9
 d = int(z)
 
 print(d)
