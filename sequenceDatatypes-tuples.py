@@ -42,6 +42,6 @@ x = tuple(xlist)
 # immutable sequence of numbers 
 
 range_x = range(3,12,2) 
-print(len(range_x)) #3,5,7,9,11
+# print(len(range_x)) #3,5,7,9,11
 
 # in the syntax 1st part is starting point, next is end of range and last is increment or decrement

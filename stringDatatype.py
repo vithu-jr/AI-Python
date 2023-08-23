@@ -17,7 +17,7 @@ Run this command to create a React application named my-react-app:'''
 
 # the in method is used to, whether a specific word or character in a string, for example
 
-# print('r' in hello)#output->405
+# print('r' in hello)#output->true
 
 # the not in method is used to, whether a specific word or character not in a string, for example
 

@@ -54,7 +54,7 @@ students_names.insert(0, 'new name')
 # students_names.append(sub_list_2)
 # print(students_names)
 
-# extend method is used to add new array to an existing array
+# extend method is used to add new list to an existing list
 students_names.extend(sub_list_2)
 # print(students_names)
 
@@ -116,7 +116,7 @@ animals_2 = []
 
 animals_2 = animals_1.copy()
 
-animals_1.append('deer')
+animals_2.append('deer')
 
 print(animals_1)
 print(animals_2)

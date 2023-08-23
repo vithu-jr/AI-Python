@@ -1,6 +1,3 @@
-
-
-
 def define_datatype(var):
     print(type(var))
 
@@ -15,7 +12,7 @@ x = 3.4e6
 # define_datatype(age)
 # define_datatype(vari)
 # print(x)
-# define_datatype(x)
+define_datatype(x)
 # print(vari)
 
 # use lower case letters to define variables in python
@@ -62,5 +59,5 @@ x = 3.4e6
 z = 3.9
 d = int(z)
 
-print(d)
-print(type(d))
+# print(d)
+# print(type(d))
