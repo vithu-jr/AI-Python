@@ -12,7 +12,7 @@ fruits = ['apple', 'orange', 'grapes', 'pears', 'mangoes']
 # print(fruits[1])
 # print(len(fruits))
 
-# we can create a sub list from a list
+#^ we can create a sub list from a list
 # sub_fruits = fruits[1:4]
 # print(sub_fruits)
 
