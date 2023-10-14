@@ -11,7 +11,7 @@ new_dict = {
 # a dictionary is ordered changeable not allow duplicate values
 # if we try to add duplicate key, the last entry will over-write the previous one
 
-# we can access value using the key value
+# we can access values from the dictionsry using the key 
 # print(new_dict['age'])#output-> 27
 # print(f'age is {new_dict["age"]}')
 

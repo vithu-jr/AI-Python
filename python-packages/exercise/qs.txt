@@ -1,0 +1,5 @@
+create a dir named geometry_calculator,  files inside geometry_calculator package
+
+1.__init__.py - import all functions from circle.py and rectangle.py
+2.circle.py - 2 functios - area(radius), Circumference(radius)
+3.rectangle.py - recT_area(len, width), rect_perimeter(len, width)

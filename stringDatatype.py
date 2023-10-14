@@ -59,7 +59,7 @@ text = 'hello world'
 
 
 # write a program to 
-# 'sir what if the user inserting everything in caital 
+# 'sir what if the user inserting everything in capital 
 # but we want to convert the first letter of the word in captal how to do that'
 
 # my_var = 'Tennis is my favourite sport'

@@ -1,0 +1,13 @@
+import random
+import my_module
+
+#my_math.py
+import math
+
+def return_rand_int():
+    return random.randint(10, 37)
+
+#main.py
+import my_math
+
+print(my_module.return_rand_int())
